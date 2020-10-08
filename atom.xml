@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-07T08:09:47.623Z</updated>
+  <updated>2020-10-08T02:56:06.608Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>a short log</title>
+    <title>A short log</title>
     <link href="http://example.com/2020/09/29/log/"/>
     <id>http://example.com/2020/09/29/log/</id>
     <published>2020-09-29T11:32:40.000Z</published>
-    <updated>2020-10-07T08:09:47.623Z</updated>
+    <updated>2020-10-08T02:56:06.608Z</updated>
     
     <content type="html"><![CDATA[<hr><h3 id="利用GitHub-Hexo搭建"><a href="#利用GitHub-Hexo搭建" class="headerlink" title="利用GitHub+Hexo搭建"></a>利用GitHub+Hexo搭建</h3><p>1.安装git</p><p>2.通过ssh绑定git与GitHub</p><p>3.安装node.js及webpack模块</p><p>4.创建.github.oi仓库</p><p>5.创建blog文件夹，安装hexo</p><p>6.将hexo部署到github</p><p>7.用了现成主题，查了下md语法，然后写到了这里</p><hr><p><img src="https://i.loli.net/2020/09/29/AadJXwI5z1vtcmE.jpg"></p><p>毫无技术力 </p><p><del>（那确实也不会什么）</del></p><hr>]]></content>
     
